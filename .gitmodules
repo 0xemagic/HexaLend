@@ -7,3 +7,6 @@
 [submodule "lib/hexalend-v1-core"]
 	path = lib/hexalend-v1-core
 	url = https://github.com/marsfoundation/hexalend-v1-core
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
